@@ -5,14 +5,14 @@
       "user": "ank",
       "email": "ank.saldarriaga@gmail.com",
       "password": "admin",
-      "profile":"company"
+      "type":"company"
     },
     {
       "id": "642d",
       "user": "Daniel",
       "password": "admin",
       "email": "daniel@gmail.com",
-      "profile":"customer"
+      "type":"customer"
     }
   ],
 
