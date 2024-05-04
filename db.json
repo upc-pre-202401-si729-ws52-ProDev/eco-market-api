@@ -136,7 +136,7 @@
       "price": 10,
       "type": "food",
       "expirationDate": "2025-12-31",
-      "urlImage": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      "urlImage": "https://m.media-amazon.com/images/I/61NpRI0C9kL._SL1190_.jpg"
     },
     {
       "id": "002",
@@ -145,7 +145,7 @@
       "price": 15,
       "type": "food",
       "expirationDate": "2025-12-31",
-      "urlImage": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      "urlImage": "https://m.media-amazon.com/images/I/71enLYTRhOL.jpg"
     },
     {
       "id": "003",
@@ -154,7 +154,7 @@
       "price": 5,
       "type": "food",
       "expirationDate": "2025-12-31",
-      "urlImage": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      "urlImage": "https://m.media-amazon.com/images/I/71StmQ8FkFL._AC_UF1000,1000_QL80_.jpg"
     },
     {
       "id": "004",
@@ -163,7 +163,7 @@
       "price": 3,
       "type": "food",
       "expirationDate": "2025-12-31",
-      "urlImage": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      "urlImage": "https://plazavea.vteximg.com.br/arquivos/ids/16382299-512-512/20277769.jpg"
     },
     {
       "id": "005",
@@ -172,7 +172,7 @@
       "price": 2,
       "type": "food",
       "expirationDate": "2025-12-31",
-      "urlImage": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      "urlImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp1GhW7oCNIW8J4rYFIT-3Zmgu5UHuiEzUw4TpdRDJew&s"
     },
     {
       "id": "006",
@@ -181,7 +181,7 @@
       "price": 1,
       "type": "cleaning",
       "expirationDate": "2025-12-31",
-      "urlImage": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      "urlImage": "https://target.scene7.com/is/image/Target/GUEST_5520736b-3285-478c-b557-42b253a2a53d?wid=488&hei=488&fmt=pjpeg"
     },
     {
       "id": "007",
@@ -190,7 +190,7 @@
       "price": 5,
       "type": "cleaning",
       "expirationDate": "2025-12-31",
-      "urlImage": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      "urlImage": "https://images-cdn.ubuy.co.in/64ea682ba0079f442c6d4c4d-dove-shea-butter-beauty-cream.jpg"
     },
     {
       "id": "008",
@@ -199,7 +199,7 @@
       "price": 3,
       "type": "cleaning",
       "expirationDate": "2025-12-31",
-      "urlImage": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      "urlImage": "https://corporacionliderperu.com/48992-large_default/johnsons-shampoo-x-200-ml-original.jpg"
     },
     {
       "id": "009",
@@ -208,7 +208,7 @@
       "price": 2,
       "type": "cleaning",
       "expirationDate": "2025-12-31",
-      "urlImage": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      "urlImage": "https://static.beautytocare.com/media/catalog/product/o/r/oral-b-complete-plus-mouthwash-toothpaste-75ml_1.jpg"
     },
     {
       "id": "010",
@@ -217,7 +217,7 @@
       "price": 2,
       "type": "food",
       "expirationDate": "2025-12-31",
-      "urlImage": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      "urlImage": "https://cdn.britannica.com/77/200377-050-4326767F/milk-splashing-glass.jpg"
     }
   ],
   "companies": [
