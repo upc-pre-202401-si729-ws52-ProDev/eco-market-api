@@ -233,20 +233,20 @@
   ],
   "reviews":[
     {
-      "id": 001,
+      "id": 1,
       "content": "Buen producto, recomendado",
       "qualification": 5,
       "date": "2024-06-21",
       "product": "Rice Brown"
     },
     {
-      "id": 002,
+      "id": 2,
       "content": "Fue una excelente compra, lo recomiendo",
       "qualification": 5,
       "date": "2024-06-22",
       "product": "Rice Brown"
     },
-      "id": 003,
+      "id": 3,
       "content": "EL producto cumple con las expectativas",
       "qualification": 4,
       "date": "2024-06-22",
