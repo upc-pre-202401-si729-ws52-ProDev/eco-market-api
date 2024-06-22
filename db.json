@@ -230,6 +230,15 @@
       "phone": "908080808",
       "description": "We are a company to sell products about first necessity! we are the better"
     }
+  ],
+  "reviews":[
+    {
+      "id": 1,
+      "content": "Buen producto, recomendado",
+      "qualification": 5,
+      "date": "2024-06-21",
+      "product": "Pasta dental"
+    }
   ]
 
 }
