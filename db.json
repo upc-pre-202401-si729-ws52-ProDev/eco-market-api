@@ -233,19 +233,24 @@
   ],
   "reviews":[
     {
-      "id": 1,
+      "id": 001,
       "content": "Buen producto, recomendado",
       "qualification": 5,
       "date": "2024-06-21",
-      "product": "Pasta dental"
+      "product": "Rice Brown"
     },
     {
-      "id": 2,
+      "id": 002,
       "content": "Fue una excelente compra, lo recomiendo",
       "qualification": 5,
       "date": "2024-06-22",
-      "product": "Pasta dental"
-    }
+      "product": "Rice Brown"
+    },
+      "id": 003,
+      "content": "EL producto cumple con las expectativas",
+      "qualification": 4,
+      "date": "2024-06-22",
+      "product": "Soap"
   ]
 
 }
